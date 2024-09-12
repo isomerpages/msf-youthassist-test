@@ -15,8 +15,8 @@ sections:
         - title: What’s happening at home?
           description: Why divorce? Is it my fault?
           url: www.hungrygowhere.com
-        - title: All the FEEELLLLSS
-          description: Making sense of the FEELS
+        - title: What might happen?
+          description: Changes and how to handle them
           url: www.pixar.com
       button: Button
       url: www.bbc.com
