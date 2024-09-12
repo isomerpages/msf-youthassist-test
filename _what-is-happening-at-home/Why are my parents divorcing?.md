@@ -16,7 +16,7 @@ together and think they need to be apart to make things better.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; This doesn’t mean they don’t care or love you
 anymore. It’s just that they have differences or issues that make it hard
 for them to live together anymore.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; Divorce is never an easy decision for anyone,
 and it is usually the last resort when all things don’t work.&nbsp;</p>
 <p></p>
