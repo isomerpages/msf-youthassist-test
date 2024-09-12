@@ -17,9 +17,9 @@ sections:
           - title: Test A
             url: https://pair.gov.sg/login
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
+      title: Youth Assister
+      subtitle: not bad arh
       description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      button: To the moon
+      url: www.youtube.com
 ---
