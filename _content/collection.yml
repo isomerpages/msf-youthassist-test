@@ -4,7 +4,6 @@ collections:
     order:
       - Is it my fault?.md
       - What might happen?.md
-      - Why are my parents divorcing?.md
       - example-subfolder/Trial.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
