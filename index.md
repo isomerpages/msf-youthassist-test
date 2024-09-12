@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Youth Assist
+description: Supporting you through changes in your family.
 image: /images/isomer-logo.svg
 permalink: /
 notification: Welcome to Youth Assist! Feel free to explore this page.
