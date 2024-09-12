@@ -2,4 +2,5 @@ collections:
   what-might-happen:
     output: true
     order:
+      - What won’t change?.md
       - What might change?.md
