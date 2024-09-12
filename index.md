@@ -10,18 +10,12 @@ sections:
       title: Youth Assist
       subtitle: Supporting you as you go make sense of your family's situation.
       background: /images/Annotation_2024_09_11_123812.png
-      button: Contact Us
-      url: /contact-us/
-      key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+      variant: center
+      dropdown:
+        title: Hero Dropdown Title
+        options:
+          - title: Test A
+            url: https://pair.gov.sg/login
   - infobar:
       title: Infobar title
       subtitle: Subtitle
