@@ -17,7 +17,7 @@ sections:
           url: /what-s-happening-at-home/
         - title: What might happen?
           description: Changes and how to handle them
-          url: www.pixar.com
+          url: /example-page/
         - title: How you might feel
           description: Handling difficult emotions
           url: ""
