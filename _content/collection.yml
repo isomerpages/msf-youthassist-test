@@ -2,7 +2,6 @@ collections:
   content:
     output: true
     order:
-      - Is it my fault?.md
       - What might happen?.md
       - example-subfolder/Trial.md
       - example-subfolder/.keep
