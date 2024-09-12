@@ -4,7 +4,7 @@ permalink: /is-it-my-fault/
 variant: tiptap
 description: ""
 ---
-<h1><strong>Is it my fault?</strong>·&nbsp;&nbsp;&nbsp;&nbsp;</h1>
+<h1><strong>Is it my fault?</strong>&nbsp;&nbsp;&nbsp;</h1>
 <p>It is important to remember that your parent’s divorce is not your fault.</p>
 <p>&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; Sometimes, it’s easy to feel like you did something
