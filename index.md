@@ -11,11 +11,15 @@ sections:
       subtitle: Supporting you as you go make sense of your family's situation.
       background: /images/Annotation_2024_09_11_123812.png
       variant: center
-      dropdown:
-        title: Hero Dropdown Title
-        options:
-          - title: Test A
-            url: https://pair.gov.sg/login
+      key_highlights:
+        - title: What is happening in my family
+          description: Ship is sinking, so is my fam
+          url: www.hungrygowhere.com
+        - title: All the FEEELLLLSS
+          description: Making sense of the FEELS
+          url: www.pixar.com
+      button: Button
+      url: www.bbc.com
   - infobar:
       title: Youth Assister
       subtitle: not bad arh
