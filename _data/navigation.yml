@@ -2,7 +2,5 @@ logo: /images/isomer-logo.svg
 links:
   - title: Can you make it obvious
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
   - title: Example Folder
-    collection: example-folder
+    collection: what-is-a-folder
