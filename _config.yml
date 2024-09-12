@@ -2,13 +2,13 @@ title: Youth Assist
 url: https://www.youthassist.com
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#9d469d"
-  secondary-color: "#a8dbcf"
+  primary-color: "#b83646"
+  secondary-color: "#1a8a6f"
   media-colors:
     - title: media-color-one
       color: "#c7ddf0"
     - title: media-color-two
-      color: "#411d69"
+      color: "#9a87b0"
     - title: media-color-three
       color: "#bddfe2"
     - title: media-color-four
