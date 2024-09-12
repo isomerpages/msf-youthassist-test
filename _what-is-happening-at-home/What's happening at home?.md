@@ -4,7 +4,6 @@ permalink: /what-s-happening-at-home/
 variant: tiptap
 description: ""
 ---
-<h2>Why are my parents divorced/divorcing? Why can't they stay together?</h2>
 <p></p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; There are different reasons why some parents
 separate or divorce. Usually, it’s because one or both are unhappy in the
