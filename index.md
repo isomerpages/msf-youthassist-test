@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Youth Assist
       subtitle: Supporting you as you go make sense of your family's situation.
-      background: /images/Annotation_2024_09_11_123812.png
+      background: /images/Annotation_2024_09_12_151906_ok.png
       variant: center
       key_highlights:
         - title: What’s happening at home?
