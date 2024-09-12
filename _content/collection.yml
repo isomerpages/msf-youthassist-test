@@ -4,7 +4,6 @@ collections:
     order:
       - What might happen?.md
       - What’s happening at home?.md
-      - folder-page.md
       - example-subfolder/Trial.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
