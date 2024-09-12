@@ -17,10 +17,10 @@ sections:
           url: /what-s-happening-at-home/
         - title: What might happen?
           description: Changes and how to handle them
-          url: /example-page/
+          url: /what-might-change/
         - title: How you might feel
           description: Handling difficult emotions
-          url: ""
+          url: /what-might-change/
       button: find out more
       url: www.bbc.com
   - infopic:
