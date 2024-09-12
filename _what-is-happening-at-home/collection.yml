@@ -2,5 +2,5 @@ collections:
   what-is-happening-at-home:
     output: true
     order:
-      - What's happening at home?.md
+      - Why are my parents divorcing?.md
       - Is it my fault?.md
