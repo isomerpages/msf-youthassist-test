@@ -2,5 +2,6 @@ collections:
   how-you-might-feel:
     output: true
     order:
+      - Talking about your emotions.md
       - Understanding Emotions.md
       - Handling difficult emotions.md
