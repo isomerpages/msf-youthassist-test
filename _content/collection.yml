@@ -1,8 +1,0 @@
-collections:
-  content:
-    output: true
-    order:
-      - What might change?.md
-      - example-subfolder/Trial.md
-      - example-subfolder/.keep
-      - example-subfolder/subfolder-page.md
