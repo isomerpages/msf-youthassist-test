@@ -4,7 +4,7 @@ permalink: /how-can-i-handle-the-changes/
 variant: tiptap
 description: ""
 ---
-<p>hange is not always easy. Some changes may be challenging and take some
+<p>Change is not always easy. Some changes may be challenging and take some
 time for you and your family to accept, adjust and adapt.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Here are some tips that may help
 you handle some of the changes/challenges:</p>
