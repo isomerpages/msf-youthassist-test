@@ -1,0 +1,4 @@
+collections:
+  what-might-happen:
+    output: true
+    order: []
