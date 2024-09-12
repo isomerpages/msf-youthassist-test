@@ -21,12 +21,14 @@ sections:
         - title: How you might feel
           description: Handling difficult emotions
           url: ""
-      button: Button
+      button: find out more
       url: www.bbc.com
-  - infobar:
-      title: Youth Assister
-      subtitle: not bad arh
-      description: About a sentence worth of description here
-      button: To the moon
-      url: www.youtube.com
+  - infopic:
+      title: Emotions
+      subtitle: How am I feeling?
+      id: infopic
+      button: take a test
+      url: sss
+      image: /images/Annotation_2024_09_12_1423382.png
+      alt: Image alt text
 ---
