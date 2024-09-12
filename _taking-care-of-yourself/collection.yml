@@ -2,4 +2,5 @@ collections:
   taking-care-of-yourself:
     output: true
     order:
+      - Keeping you and your family safe.md
       - Looking after your mental health and well being.md
