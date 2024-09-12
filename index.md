@@ -12,8 +12,8 @@ sections:
       background: /images/Annotation_2024_09_11_123812.png
       variant: center
       key_highlights:
-        - title: What is happening in my family
-          description: Ship is sinking, so is my fam
+        - title: What’s happening at home?
+          description: Why divorce? Is it my fault?
           url: www.hungrygowhere.com
         - title: All the FEEELLLLSS
           description: Making sense of the FEELS
@@ -26,4 +26,16 @@ sections:
       description: About a sentence worth of description here
       button: To the moon
       url: www.youtube.com
+  - infocols:
+      title: Info-columns
+      subtitle: Add snippets of text in columns
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: Infobox
+          description: Infobox description
+        - title: Infobox
+          description: Infobox description
+        - title: Infobox
+          description: Infobox description
 ---
