@@ -3,12 +3,12 @@ url: https://www.youthassist.com
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#e5bcc1"
-  secondary-color: "#fffbd1"
+  secondary-color: "#a6d076"
   media-colors:
     - title: media-color-one
       color: "#c7ddf0"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#411d69"
     - title: media-color-three
       color: "#bddfe2"
     - title: media-color-four
