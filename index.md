@@ -21,9 +21,6 @@ sections:
         - title: How you might feel
           description: Handling difficult emotions
           url: ""
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
       button: Button
       url: www.bbc.com
   - infobar:
