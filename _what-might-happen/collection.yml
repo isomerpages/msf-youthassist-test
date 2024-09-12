@@ -2,5 +2,6 @@ collections:
   what-might-happen:
     output: true
     order:
+      - How can I handle the changes?.md
       - What won’t change?.md
       - What might change?.md
