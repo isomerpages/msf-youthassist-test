@@ -1,4 +1,5 @@
 collections:
   how-you-might-feel:
     output: true
-    order: []
+    order:
+      - Understanding Emotions.md
