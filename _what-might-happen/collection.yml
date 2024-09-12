@@ -1,4 +1,5 @@
 collections:
   what-might-happen:
     output: true
-    order: []
+    order:
+      - What might change?.md
