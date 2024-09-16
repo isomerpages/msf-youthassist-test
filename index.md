@@ -8,7 +8,7 @@ notification: Welcome to Youth Assist!
 sections:
   - hero:
       title: Youth Assist
-      subtitle: Supporting you as you make sense of your family's situation.
+      subtitle: Making sense of your family’s journey? We're here to support you.
       background: /images/Annotation_2024_09_12_151906_ok.png
       variant: center
       key_highlights:
@@ -21,7 +21,7 @@ sections:
         - title: How you might feel
           description: Handling difficult emotions
           url: /understanding-emotions/
-      button: enter
+      button: Figure it out
       url: www.bbc.com
   - infopic:
       title: emotions
@@ -35,4 +35,11 @@ sections:
       title: Resources
       subtitle: Add a preview and link to your Resource Room
       id: resources
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
