@@ -13,10 +13,12 @@ description: ""
 they are not permanent, just like waves in the ocean.</p>
 <p>It is helpful to be gentle and patient with yourself while allowing these
 emotions to come and go with time.</p>
-<p>&nbsp;</p>
-<h5>To cope with and manage your strong emotions, consider using some of the following strategies:</h5>
-<p>o&nbsp;&nbsp; Recognise, acknowledge, and validate your feelings (e.g.,
-“I am feeling … because/when … ” and “It is OK to feel sad”).</p>
+<p>&nbsp;To cope with and manage your strong emotions, consider these strategies:</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h5>&nbsp; Recognise, acknowledge, and validate your feelings (e.g., “I am feeling … because/when … ” and “It is OK to feel sad”).</h5>
 <p>o&nbsp;&nbsp; Find healthy ways to express your feelings.</p>
 <p>o&nbsp;&nbsp; Talk to an adult that you trust (e.g., one or both of your
 parents, a relative, or a teacher)</p>
@@ -32,6 +34,16 @@ a sign of weakness, serving to release emotions.</p>
 music and reading.</p>
 <p>o&nbsp;&nbsp; <a href="#_Practise_helpful_thinking," rel="noopener noreferrer nofollow" target="_blank">Practise helpful/positive thinking or self-talk statements</a>
 </p>
-<p>o&nbsp;&nbsp; <a href="#_Seeking_Support" rel="noopener noreferrer nofollow" target="_blank">Seek professional support,</a> especially
-if you find the emotions challenging to deal with and making it hard to
-do things you usually do.</p>
+<p>o&nbsp;&nbsp; <a href="#_Seeking_Support" rel="noopener noreferrer nofollow" target="_blank">Seek professional support</a>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p>o&nbsp;the emotions challenging to deal with and making it hard to do
+things you usually do.</p>
