@@ -24,11 +24,11 @@ sections:
       button: find out more
       url: www.bbc.com
   - infopic:
-      title: Emotions
+      title: emotions
       subtitle: How am I feeling?
       id: infopic
       button: take a test
       url: sss
-      image: /images/Annotation_2024_09_12_1423382.png
+      image: /images/Annotation_2024_09_16_132910.jpg
       alt: Image alt text
 ---
