@@ -13,7 +13,7 @@ sections:
       variant: center
       key_highlights:
         - title: What’s happening at home?
-          description: Why divorce? Is it my fault?
+          description: Is the divorce my fault?
           url: /what-s-happening-at-home/
         - title: What might happen?
           description: Changes and how to handle them
