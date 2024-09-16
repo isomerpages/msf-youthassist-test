@@ -21,7 +21,7 @@ sections:
         - title: How you might feel
           description: Handling difficult emotions
           url: https://cms.isomer.gov.sg/sites/msf-youthassist-test/folders/how-you-might-feel
-      button: find out more
+      button: enter
       url: www.bbc.com
   - infopic:
       title: emotions
@@ -31,4 +31,8 @@ sections:
       url: sss
       image: /images/Annotation_2024_09_16_132910.jpg
       alt: Image alt text
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---
