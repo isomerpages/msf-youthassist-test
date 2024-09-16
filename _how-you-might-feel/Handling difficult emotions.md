@@ -13,7 +13,7 @@ description: ""
 they are not permanent, just like waves in the ocean.</p>
 <p>It is helpful to be gentle and patient with yourself while allowing these
 emotions to come and go with time.</p>
-<p>&nbsp;To cope with and manage your strong emotions, consider these strategies:</p>
+<p>To cope with and manage your strong emotions, consider these strategies:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary></summary>
