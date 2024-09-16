@@ -20,7 +20,7 @@ sections:
           url: /what-might-change/
         - title: How you might feel
           description: Handling difficult emotions
-          url: https://cms.isomer.gov.sg/sites/msf-youthassist-test/folders/how-you-might-feel
+          url: ""
       button: enter
       url: www.bbc.com
   - infopic:
