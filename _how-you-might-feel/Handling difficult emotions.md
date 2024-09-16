@@ -4,12 +4,17 @@ permalink: /handling-difficult-emotions/
 variant: tiptap
 description: ""
 ---
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When experiencing strong
-or uncomfortable emotions, remind yourself that they are not permanent,
-just like waves in the ocean. It is helpful to be gentle and patient with
-yourself while allowing these emotions to come and go with time.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Annotation_2024_09_16_164953.jpg">
+</div>
+<p></p>
+<p>When experiencing strong or uncomfortable emotions, remind yourself that
+they are not permanent, just like waves in the ocean.</p>
+<p>It is helpful to be gentle and patient with yourself while allowing these
+emotions to come and go with time.</p>
 <p>&nbsp;</p>
-<h5>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To cope with and manage your strong emotions, consider using some of the following strategies:</h5>
+<h5>To cope with and manage your strong emotions, consider using some of the following strategies:</h5>
 <p>o&nbsp;&nbsp; Recognise, acknowledge, and validate your feelings (e.g.,
 “I am feeling … because/when … ” and “It is OK to feel sad”).</p>
 <p>o&nbsp;&nbsp; Find healthy ways to express your feelings.</p>
