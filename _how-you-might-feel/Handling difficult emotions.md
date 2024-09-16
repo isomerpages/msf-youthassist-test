@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Annotation_2024_09_16_164953.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Annotation_2024_09_16_164953.jpg">
 </div>
 <p></p>
 <p>When experiencing strong or uncomfortable emotions, remind yourself that
