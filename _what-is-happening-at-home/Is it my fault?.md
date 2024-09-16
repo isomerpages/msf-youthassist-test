@@ -9,7 +9,7 @@ description: ""
 <p>Sometimes, it’s easy to feel like you did something wrong, especially
 when their disagreement is in some way related to you, or you feel that
 you could have prevented it.</p>
-<h4>This is not true. </h4>
+<h4>This is not true.</h4>
 <p>Your parents separated because it is too hard for them to negotiate their
 difficulties and differences anymore, not because of you.</p>
 <p>It is understandable to feel upset or confused when a situation like this
