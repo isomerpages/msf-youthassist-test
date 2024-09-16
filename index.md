@@ -16,10 +16,10 @@ sections:
           description: Is the divorce my fault?
           url: /what-s-happening-at-home/
         - title: What might happen?
-          description: Changes and how to handle them
+          description: How can I handle the changes?
           url: /what-might-change/
         - title: How you might feel
-          description: Handling difficult emotions
+          description: Managing emotions
           url: /understanding-emotions/
       button: Figure it out
       url: www.bbc.com
