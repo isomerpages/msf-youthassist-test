@@ -20,7 +20,7 @@ sections:
           url: /what-might-change/
         - title: How you might feel
           description: Handling difficult emotions
-          url: ""
+          url: /understanding-emotions/
       button: enter
       url: www.bbc.com
   - infopic:
