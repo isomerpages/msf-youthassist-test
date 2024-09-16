@@ -4,11 +4,11 @@ title: Youth Assist
 description: Supporting you through changes in your family.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Welcome to Youth Assist! Feel free to explore this page.
+notification: Welcome to Youth Assist!
 sections:
   - hero:
       title: Youth Assist
-      subtitle: Supporting you as you go make sense of your family's situation.
+      subtitle: Supporting you as you make sense of your family's situation.
       background: /images/Annotation_2024_09_12_151906_ok.png
       variant: center
       key_highlights:
