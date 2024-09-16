@@ -4,7 +4,7 @@ permalink: /understanding-emotions/
 variant: tiptap
 description: ""
 ---
-<h2>It is common for divorce to bring about different emotions in you. </h2>
+<h2>It is common for divorce to bring about different emotions in you.</h2>
 <p>Some emotions may be uncomfortable. You may experience strong emotions
 or find it difficult to describe exactly what or how you feel when thinking
 about your parents and home situation.&nbsp;</p>
