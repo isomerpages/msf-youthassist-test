@@ -98,7 +98,6 @@ about your parents and home situation.&nbsp;</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Calm</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 </div>
 </div>
 </div>
