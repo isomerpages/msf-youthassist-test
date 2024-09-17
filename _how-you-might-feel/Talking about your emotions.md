@@ -9,6 +9,7 @@ description: ""
 <p></p>
 <p>It’s good to talk about them earlier as it allows you to understand and
 deal with them. The more you talk about it, the easier it may get.&nbsp;</p>
+<p></p>
 <p>Consider approaching the person you trust and saying,</p>
 <p></p>
 <blockquote>
