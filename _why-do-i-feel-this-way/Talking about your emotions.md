@@ -19,7 +19,7 @@ deal with them. The more you talk about it, the easier it may get.&nbsp;</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/use_this.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/use_this.jpg">
 </div>
 <p>You can then share how you feel and think, including what bothers you
 and what you want. You may be surprised that someone can help you feel
