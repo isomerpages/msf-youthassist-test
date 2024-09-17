@@ -4,6 +4,9 @@ permalink: /what-might-change/
 variant: tiptap
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Annotation_2024_09_17_104656.jpg">
+</div>
 <p>When parents separate or divorce, there might be several changes in your
 daily routine:</p>
 <div class="isomer-card-grid">
