@@ -12,7 +12,7 @@ you could have prevented it.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Annotation_2024_09_17_105113.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Annotation_2024_09_17_105113.jpg">
 </div>
 <h4>This is not true.</h4>
 <p>Your parents separated because it is too hard for them to negotiate their
