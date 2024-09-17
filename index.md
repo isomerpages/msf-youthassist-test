@@ -7,8 +7,8 @@ permalink: /
 notification: Welcome to Youth Assist!
 sections:
   - hero:
-      title: Youth Assist
-      subtitle: Making sense of your family’s journey? We're here to support you.
+      title: Family Challenges?
+      subtitle: We're here to support you.
       background: /images/use_this_banner.jpg
       variant: center
       key_highlights:
