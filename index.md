@@ -10,7 +10,7 @@ sections:
       title: Youth Assist
       subtitle: Making sense of your family’s journey? We're here to support you.
       background: /images/Annotation_2024_09_17_150330.jpg
-      variant: floating
+      variant: center
       key_highlights:
         - title: What’s happening at home?
           description: Is the divorce my fault?
