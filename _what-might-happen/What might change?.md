@@ -4,11 +4,27 @@ permalink: /what-might-change/
 variant: tiptap
 description: ""
 ---
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When parents separate or divorce,
-there might be several changes in your daily routine. For example, you
-might spend time with each parent separately, have new living and school
-arrangements, or spend more/less time with your friends, siblings and extended
-family. You might also notice that you and your parents and siblings seem
-different during this time period. For example, you or they might seem
-more distracted or sad, begin to do things differently or develop new habits
-and interests. These could be part of your/their own responses to the changes.</p>
+<p>When parents separate or divorce, there might be several changes in your
+daily routine:</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Spending time with each parent separately</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">New living and school arrangements</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Spending more or less time with friends, siblings or relatives</div>
+</div>
+</div>
+</div>
+<p></p>
+<p>You might also notice that you and your parents and siblings seem different
+during this time period. For example, you or they might seem more distracted
+or sad, begin to do things differently or develop new habits and interests.</p>
+<p>These could be part of your or their own responses to the changes.</p>
