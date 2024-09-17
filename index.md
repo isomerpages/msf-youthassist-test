@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Youth Assist
       subtitle: Making sense of your family’s journey? We're here to support you.
-      background: /images/Annotation_2024_09_17_114725.jpg
+      background: /images/use_this_2.jpg
       variant: center
       key_highlights:
         - title: What’s happening at home?
@@ -28,7 +28,7 @@ sections:
       id: infopic
       button: take a test
       url: sss
-      image: /images/Annotation_2024_09_16_132910.jpg
+      image: /images/Picture2.jpg
       alt: Image alt text
   - resources:
       title: Resources
