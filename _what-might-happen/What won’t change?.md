@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<h4><strong>Your parents still love you.</strong></h4>
+<h1><strong>Your parents still love you.</strong></h1>
 <h3>Even though they're no longer together, your parents are still your parents. Their love for you doesn’t change.<strong>&nbsp;</strong></h3>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
