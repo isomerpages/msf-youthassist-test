@@ -18,7 +18,7 @@ sections:
         - title: Will my life change?
           description: How can I handle them?
           url: /what-might-change/
-        - title: My feelings
+        - title: Why do I feel this way?
           description: Managing emotions
           url: /understanding-emotions/
       url: www.bbc.com
