@@ -8,8 +8,8 @@ description: ""
 <h3>You don’t have to wait for your feelings and problems to be big or have a special time to talk about them.</h3>
 <p></p>
 <p>It’s good to talk about them earlier as it allows you to understand and
-deal with them. The more you talk about it, the easier it may get.&nbsp;Consider
-approaching the person you trust and saying,</p>
+deal with them. The more you talk about it, the easier it may get.&nbsp;</p>
+<p>Consider approaching the person you trust and saying,</p>
 <p></p>
 <blockquote>
 <h4>“Can we talk for a minute? I have something to share.”</h4>
