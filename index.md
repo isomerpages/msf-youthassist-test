@@ -23,7 +23,7 @@ sections:
           url: /understanding-emotions/
       url: www.bbc.com
   - infopic:
-      title: emotions
+      title: Emotions
       subtitle: How am I feeling?
       id: infopic
       button: take a test
