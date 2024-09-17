@@ -3,7 +3,7 @@ url: https://www.youthassist.com
 favicon: /images/Annotation_2024_09_16_115300.jpg
 colors:
   primary-color: "#126ed0"
-  secondary-color: "#f9ae65"
+  secondary-color: "#ff7d00"
   media-colors:
     - title: media-color-one
       color: "#db77bf"
