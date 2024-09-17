@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h2>Change is not always easy.</h2>
-<h4>Some changes may be challenging and take some time for you and your family to accept, adjust and adapt.</h4>
+<p>Some changes may be challenging and take some time for you and your family
+to accept, adjust and adapt.</p>
 <p>Here are some tips that may help you handle some of them:</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
