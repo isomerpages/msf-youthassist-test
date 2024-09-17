@@ -5,10 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Annotation_2024_09_16_164953.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Annotation_2024_09_17_112749.jpg">
+</div>
 <p>When experiencing strong or uncomfortable emotions, remind yourself that
 they are not permanent, just like waves in the ocean.</p>
 <p>It is helpful to be gentle and patient with yourself while allowing these
