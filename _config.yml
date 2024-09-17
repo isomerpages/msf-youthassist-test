@@ -2,13 +2,13 @@ title: Youth Assist
 url: https://www.youthassist.com
 favicon: /images/Annotation_2024_09_16_115300.jpg
 colors:
-  primary-color: "#cc9f4e"
-  secondary-color: "#ce4f8f"
+  primary-color: "#ffbd00"
+  secondary-color: "#ff0054"
   media-colors:
     - title: media-color-one
-      color: "#48bba3"
+      color: "#9e0059"
     - title: media-color-two
-      color: "#fb9cdb"
+      color: "#390099"
     - title: media-color-three
       color: "#bddfe2"
     - title: media-color-four
