@@ -1,5 +1,5 @@
 collections:
-  how-you-might-feel:
+  why-do-i-feel-this-way:
     output: true
     order:
       - Understanding Emotions.md
