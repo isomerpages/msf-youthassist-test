@@ -83,7 +83,7 @@ about your parents and home situation.&nbsp;</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Relief" src="/images/Annotation_2024_09_16_145858.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Relief" src="/images/relief.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
