@@ -3,7 +3,7 @@ url: https://www.youthassist.com
 favicon: /images/fist.jpg
 colors:
   primary-color: "#b195b9"
-  secondary-color: "#df9414"
+  secondary-color: "#ea950a"
   media-colors:
     - title: media-color-one
       color: "#4b6e97"
