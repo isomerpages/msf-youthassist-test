@@ -1,5 +1,5 @@
 collections:
-  what-might-happen:
+  will-my-life-change:
     output: true
     order:
       - What might change?.md
