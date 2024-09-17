@@ -2,7 +2,7 @@ title: Youth Assist
 url: https://www.youthassist.com
 favicon: /images/Annotation_2024_09_16_115300.jpg
 colors:
-  primary-color: "#9e6dca"
+  primary-color: "#9d6acb"
   secondary-color: "#807dda"
   media-colors:
     - title: media-color-one
@@ -12,7 +12,7 @@ colors:
     - title: media-color-three
       color: "#bddfe2"
     - title: media-color-four
-      color: "#7b81c8"
+      color: "#f4b690"
     - title: media-color-five
       color: "#b0ab42"
 description: Supporting you through changes in your family.
