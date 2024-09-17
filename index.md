@@ -21,7 +21,6 @@ sections:
         - title: How you might feel
           description: Managing emotions
           url: /understanding-emotions/
-      button: Figure it out
       url: www.bbc.com
   - infopic:
       title: emotions
