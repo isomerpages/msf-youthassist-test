@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Family Challenges?
       subtitle: We're here to support you.
-      background: /images/Untitled.png
+      background: /images/Annotation_2024_09_18_104834.jpg
       variant: center
       key_highlights:
         - title: What’s happening at home?
