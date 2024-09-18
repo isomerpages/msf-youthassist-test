@@ -31,10 +31,11 @@ sections:
       image: /images/Picture2.jpg
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Need Support?
+      subtitle: resources
       id: infopic
-      description: Infopic description
-      button: Button Text
+      button: Find it here
       alt: Image alt text
+      url: www.msf.gov.sg
+      image: /images/banner.jpg
 ---
