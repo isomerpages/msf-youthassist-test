@@ -37,5 +37,5 @@ sections:
       button: Find it here
       alt: Image alt text
       url: www.msf.gov.sg
-      image: /images/banner.jpg
+      image: /images/seeking_help.jpg
 ---
