@@ -27,8 +27,7 @@ sections:
       subtitle: How am I feeling?
       id: infopic
       button: take a test
-      url: www.checkfirst.gov.sg/c/d945dc86-dca0-4f3c-86d8-926ed5780b4d"
-        style="width:100%;height:500px">
+      url: https://www.checkfirst.gov.sg/c/d945dc86-dca0-4f3c-86d8-926ed5780b4d
       image: /images/Picture2.jpg
       alt: Image alt text
   - infopic:
