@@ -2,7 +2,7 @@ collections:
   will-my-life-change:
     output: true
     order:
-      - Kathir.md
       - Will My Life Change?.md
       - What won’t change?.md
       - Joshua.md
+      - Kathir.md
