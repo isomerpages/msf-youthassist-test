@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h1>Change is not always easy.</h1>
-<h1></h1>
+<p></p>
 <blockquote>
 <p>"Take your time to open up with people you trust. When you are ready,
 try being open or upfront about your parent’s being divorced to your friends
