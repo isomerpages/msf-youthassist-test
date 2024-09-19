@@ -2,7 +2,7 @@ collections:
   will-my-life-change:
     output: true
     order:
-      - What Joshua did.md
       - What might change?.md
       - What won’t change?.md
       - How can I handle the changes?.md
+      - What Joshua did.md
