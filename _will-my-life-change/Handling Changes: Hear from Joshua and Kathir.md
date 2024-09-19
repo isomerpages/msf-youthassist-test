@@ -4,7 +4,7 @@ permalink: /handling-changes-hear-from-joshua-and-kathir/
 variant: tiptap
 description: ""
 ---
-<h1>Change is not always easy.</h1>
+<h2><strong>Change is not always easy.</strong></h2>
 <p></p>
 <blockquote>
 <p>"Take your time to open up with people you trust. When you are ready,
