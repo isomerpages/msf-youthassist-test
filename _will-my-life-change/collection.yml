@@ -2,6 +2,6 @@ collections:
   will-my-life-change:
     output: true
     order:
-      - What might change?.md
+      - zzzz.md
       - What won’t change?.md
       - "Handling Changes: Hear from Joshua and Kathir.md"
