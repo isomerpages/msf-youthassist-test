@@ -6,10 +6,8 @@ description: ""
 ---
 <p></p>
 <h1><strong>Your parents still love you.</strong></h1>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/parents_love.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/parents_love.jpg">
 </div>
 <h3>Even though they're no longer together, your parents are still your parents. Their love for you doesn’t change.<strong>&nbsp;</strong></h3>
 <p></p>
