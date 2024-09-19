@@ -34,8 +34,7 @@ you!"</div>
 <p>"I started volunteering more in my CCA and usually stayed back after classes
 to help the team out in whatever they needed to do, slowly I started realising
 that thoughts about CCAs and activities replaced the stress I had about
-what was going on at home."<em> </em>
-</p>
+what was going on at home."</p>
 <p><em>- Kathir, 23 (Parents divorced when he was 14)</em>
 </p>
 </blockquote>
