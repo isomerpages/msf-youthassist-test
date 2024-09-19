@@ -14,7 +14,7 @@ try being open or upfront about your parent’s being divorced to your friends
 or classmates."</p>
 </blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/handling_changes.jpg">
+<img style="width: 26%;" height="auto" width="100%" alt="" src="/images/handling_changes.jpg">
 </div>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -40,7 +40,7 @@ what was going on at home."</p>
 </blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/handling_changes_2.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/handling_changes_2.jpg">
 </div>
 <div class="isomer-card-grid">
 <div class="isomer-card">
