@@ -9,7 +9,8 @@ description: ""
 <blockquote>
 <p>"Take your time to open up with people you trust. When you are ready,
 try being open or upfront about your parent’s being divorced to your friends
-or classmates." <em>Joshua, 19 (Parents divorced when he was 8)</em>
+or classmates."</p>
+<p>- <em>Joshua, 19 (Parents divorced when he was 8)</em>
 </p>
 </blockquote>
 <p></p>
@@ -33,7 +34,9 @@ you!"</div>
 <p>"I started volunteering more in my CCA and usually stayed back after classes
 to help the team out in whatever they needed to do, slowly I started realising
 that thoughts about CCAs and activities replaced the stress I had about
-what was going on at home."<em> - Kathir, 23 (Parents divorced when he was 14)</em>
+what was going on at home."<em> </em>
+</p>
+<p><em>- Kathir, 23 (Parents divorced when he was 14)</em>
 </p>
 </blockquote>
 <p></p>
