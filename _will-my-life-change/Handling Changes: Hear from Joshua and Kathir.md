@@ -37,7 +37,7 @@ what was going on at home." - Kathir, 23 (Parents divorced when he was
 </blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/handling_changes_2.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/handling_changes_2.jpg">
 </div>
 <div class="isomer-card-grid">
 <div class="isomer-card">
