@@ -6,14 +6,13 @@ description: ""
 ---
 <h2><strong>Change is not always easy.</strong></h2>
 <p></p>
+<h4> <em>Joshua, 19 (Parents divorced when he was 8):</em></h4>
+<p></p>
 <blockquote>
 <p>"Take your time to open up with people you trust. When you are ready,
 try being open or upfront about your parent’s being divorced to your friends
 or classmates."</p>
-<p>- <em>Joshua, 19 (Parents divorced when he was 8)</em>
-</p>
 </blockquote>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/handling_changes.jpg">
 </div>
@@ -29,14 +28,14 @@ you!"</div>
 </div>
 </div>
 </div>
-<p></p>
+<hr>
+<p><em>Kathir, 23 (Parents divorced when he was 14)</em>
+</p>
 <blockquote>
 <p>"I started volunteering more in my CCA and usually stayed back after classes
 to help the team out in whatever they needed to do, slowly I started realising
 that thoughts about CCAs and activities replaced the stress I had about
 what was going on at home."</p>
-<p><em>- Kathir, 23 (Parents divorced when he was 14)</em>
-</p>
 </blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
