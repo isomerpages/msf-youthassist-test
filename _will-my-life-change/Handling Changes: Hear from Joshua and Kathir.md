@@ -13,7 +13,7 @@ or classmates." Joshua, 19 (Parents divorced when he was 8)</p>
 </blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/handling_changes.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/handling_changes.jpg">
 </div>
 <div class="isomer-card-grid">
 <div class="isomer-card">
