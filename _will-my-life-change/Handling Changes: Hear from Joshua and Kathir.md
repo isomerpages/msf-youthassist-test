@@ -6,7 +6,7 @@ description: ""
 ---
 <h2><strong>Change is not always easy.</strong></h2>
 <p></p>
-<h4> <em>Joshua, 19 (Parents divorced when he was 8):</em></h4>
+<h4><em>Joshua, 19 (Parents divorced when he was 8):</em></h4>
 <p></p>
 <blockquote>
 <p>"Take your time to open up with people you trust. When you are ready,
@@ -28,9 +28,10 @@ you!"</div>
 </div>
 </div>
 </div>
+<p></p>
 <hr>
-<p><em>Kathir, 23 (Parents divorced when he was 14)</em>
-</p>
+<h4><em>Kathir, 23 (Parents divorced when he was 14):</em></h4>
+<p></p>
 <blockquote>
 <p>"I started volunteering more in my CCA and usually stayed back after classes
 to help the team out in whatever they needed to do, slowly I started realising
