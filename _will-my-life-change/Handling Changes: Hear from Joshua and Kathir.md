@@ -9,7 +9,7 @@ description: ""
 <blockquote>
 <p>"Take your time to open up with people you trust. When you are ready,
 try being open or upfront about your parent’s being divorced to your friends
-or classmates." Joshua, 19 (Parents divorced when he was 8.)</p>
+or classmates." Joshua, 19 (Parents divorced when he was 8)</p>
 </blockquote>
 <p></p>
 <div class="isomer-card-grid">
@@ -29,5 +29,29 @@ you!"</div>
 </div>
 </div>
 </div>
-<h1></h1>
+<p></p>
+<blockquote>
+<p>"I started volunteering more in my CCA and usually stayed back after classes
+to help the team out in whatever they needed to do, slowly I started realising
+that thoughts about CCAs and activities replaced the stress I had about
+what was going on at home." - Kathir, 23 (Parents divorced when he was
+14)</p>
+</blockquote>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Open up" src="/images/Annotation_2024_09_12_151906_ok.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Use School as a Positive Distraction</div>
+<div class="isomer-card-description">"School can be a great way to take your mind off things. Finding subjects
+or activities you enjoy, like CCAs or other school programs, can keep you
+engaged and focused on something constructive."</div>
+</div>
+</div>
+</div>
+<p></p>
 <p></p>
