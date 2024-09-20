@@ -1,5 +1,5 @@
 collections:
-  hear-from-kathir-and-joshua:
+  how-we-coped:
     output: true
     order:
       - Kathir.md
