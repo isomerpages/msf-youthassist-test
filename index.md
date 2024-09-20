@@ -23,7 +23,7 @@ sections:
           url: /understanding-emotions/
         - title: How We Coped
           description: Joshua and Kathir
-          url: /kathir/
+          url: /handling-changes-hear-from-joshua-and-kathir/
       url: www.bbc.com
   - infopic:
       title: Emotions
