@@ -2,5 +2,5 @@ collections:
   how-we-coped:
     output: true
     order:
-      - Kathir.md
       - Joshua.md
+      - Kathir.md
