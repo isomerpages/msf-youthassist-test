@@ -25,6 +25,16 @@ or activities you enjoy, like CCAs or other school programs, can keep you
 engaged and focused on something constructive."</div>
 </div>
 </div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Create a Stable Routine</div>
+<div class="isomer-card-description">"When everything felt chaotic, routines helped. Setting specific times
+for studying, meals and relaxation provided a sense of control and stability
+amidst the changes. If home feels stressful, try finding a spot in school
+or the library (or a nice café; food for the stomach, homework for the
+mind)."</div>
+</div>
+</div>
 </div>
 <p></p>
 <p></p>
