@@ -1,4 +1,5 @@
 collections:
   hear-from-kathir-and-joshua:
     output: true
-    order: []
+    order:
+      - Joshua.md
