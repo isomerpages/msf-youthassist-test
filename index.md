@@ -39,6 +39,6 @@ sections:
       id: infopic
       button: Find it here
       alt: Image alt text
-      url: www.msf.gov.sg
+      url: /resources/
       image: /images/Annotation_2024_09_17_112338.jpg
 ---
