@@ -26,7 +26,17 @@ I found it really comforting to have friends who understand, even superficially.
 It can help that they are more sensitive when bringing things up around
 you!"</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Enjoy your hobbies</div><div class="isomer-card-description">"I stayed back in school (a lot of after-school ‘catching’ in primary school). It helped relieve and avoid the stress of my household matters. I made many friends and found new hobbies. By the time I got home, I was sometimes too exhausted to think/stress about my family being divorced 😅"</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Enjoy your hobbies</div>
+<div class="isomer-card-description">"I stayed back in school (a lot of after-school ‘catching’ in primary
+school). It helped relieve and avoid the stress of my household matters.
+I made many friends and found new hobbies. By the time I got home, I was
+sometimes too exhausted to think/stress about my family being divorced
+😅"</div>
+</div>
+</div>
 </div>
 <h4></h4>
 <p></p>
