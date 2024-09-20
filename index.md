@@ -21,8 +21,8 @@ sections:
         - title: Why do I feel this way?
           description: Managing emotions
           url: /understanding-emotions/
-        - title: Hear from Kathir and Joshua
-          description: Youth stories
+        - title: How We Coped
+          description: Joshua and Kathir
           url: /kathir/
       url: www.bbc.com
   - infopic:
