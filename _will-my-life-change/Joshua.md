@@ -26,31 +26,7 @@ I found it really comforting to have friends who understand, even superficially.
 It can help that they are more sensitive when bringing things up around
 you!"</div>
 </div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Enjoy your hobbies</div><div class="isomer-card-description">"I stayed back in school (a lot of after-school ‘catching’ in primary school). It helped relieve and avoid the stress of my household matters. I made many friends and found new hobbies. By the time I got home, I was sometimes too exhausted to think/stress about my family being divorced 😅"</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
-</div>
-<h4><em>Kathir, 23 (Parents divorced when he was 14):</em></h4>
-<p></p>
-<blockquote>
-<p>"I started volunteering more in my CCA and usually stayed back after classes
-to help the team out in whatever they needed to do, slowly I started realising
-that thoughts about CCAs and activities replaced the stress I had about
-what was going on at home."</p>
-</blockquote>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/handling_changes_2.jpg">
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Use School as a Positive Distraction</div>
-<div class="isomer-card-description">"School can be a great way to take your mind off things. Finding subjects
-or activities you enjoy, like CCAs or other school programs, can keep you
-engaged and focused on something constructive."</div>
-</div>
-</div>
-</div>
-<p></p>
-<p></p>
-<hr>
+<h4></h4>
 <p></p>
