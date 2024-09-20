@@ -2,4 +2,5 @@ collections:
   hear-from-kathir-and-joshua:
     output: true
     order:
+      - Kathir.md
       - Joshua.md
