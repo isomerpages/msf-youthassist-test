@@ -41,4 +41,8 @@ sections:
       alt: Image alt text
       url: /resources/
       image: /images/Annotation_2024_09_17_112338.jpg
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---
