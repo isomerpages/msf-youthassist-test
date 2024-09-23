@@ -12,7 +12,7 @@ sections:
       background: /images/Annotation_2024_09_18_104834.jpg
       variant: center
       key_highlights:
-        - title: What is Going on at home
+        - title: What is Going on at home?
           description: Is the divorce my fault?
           url: /what-s-happening-at-home/
         - title: Will my life change?
