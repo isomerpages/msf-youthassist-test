@@ -1,5 +1,5 @@
 collections:
-  how-we-coped:
+  dear-friend:
     output: true
     order:
       - Joshua.md
