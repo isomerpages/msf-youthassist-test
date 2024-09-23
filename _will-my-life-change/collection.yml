@@ -2,5 +2,5 @@ collections:
   will-my-life-change:
     output: true
     order:
-      - Will My Life Change?.md
       - What won’t change?.md
+      - Will My Life Change?.md
