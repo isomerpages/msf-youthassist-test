@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: What is Going on at home?
           description: Is the divorce my fault?
-          url: /what-s-happening-at-home/
+          url: /why-are-my-parents-divorcing/
         - title: Will my life change?
           description: How can I handle them?
           url: /what-might-change/
