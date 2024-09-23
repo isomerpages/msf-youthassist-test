@@ -17,7 +17,7 @@ sections:
           url: /why-are-my-parents-divorcing/
         - title: Will my life change?
           description: How can I handle them?
-          url: /what-might-change/
+          url: /what-won-t-change/
         - title: Why do I feel this way?
           description: Managing emotions
           url: /understanding-emotions/
