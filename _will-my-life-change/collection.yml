@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - What won’t change?.md
-      - Possible Changes.md
+      - Possible changes.md
