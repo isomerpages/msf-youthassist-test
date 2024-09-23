@@ -5,6 +5,11 @@ variant: tiptap
 description: ""
 ---
 <h1>Taking the first step to seek help is a sign of strength.</h1>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Annotation_2024_09_23_115230.jpg">
+</div>
 <h4></h4>
 <h4>School-based support&nbsp;</h4>
 <p>School counsellors: Most schools have dedicated counsellors who can provide
