@@ -21,8 +21,8 @@ sections:
         - title: Why do I feel this way?
           description: Managing emotions
           url: /understanding-emotions/
-        - title: How We Coped
-          description: Joshua and Kathir
+        - title: Dear Friend
+          description: From Joshua & Kathir
           url: /handling-changes-hear-from-joshua/
       url: www.bbc.com
   - infopic:
